@@ -201,7 +201,7 @@
     "name": "Leatherback Sea Turtle",
     "scientificName": "dermochelys coriacea",
     "category": "ସରୀସୃପ",
-    "description": "the giant jellyମାଛ specialist",
+    "description": "the giant jellyfish specialist",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/leatherback-turtle.webp",
     "odiaName": "ଲେଦରବ୍ୟାକ୍ ସମୁଦ୍ର କଇଁଛ",
@@ -377,7 +377,7 @@
     "name": "Alligator Snapping Turtle",
     "scientificName": "macrochelys temminckii",
     "category": "ସରୀସୃପ",
-    "description": "the prehistoric lure-ମାଛing giant of american rivers",
+    "description": "the prehistoric lure-fishing giant of american rivers",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/alligator-snapping-turtle.webp",
     "odiaName": "ଆଲିଗେଟର୍ ସ୍ନାପିଂ କଇଁଛ",
@@ -418,14 +418,14 @@
     "descriptionOdia": "ବଡ଼ ଆଖି ଥିବା ନିଶାଚର ପ୍ରାଇମେଟ୍"
   },
   {
-    "name": "Ocean Sunମାଛ",
+    "name": "Ocean Sunfish",
     "scientificName": "mola mola",
     "category": "ମାଛ",
-    "description": "the heaviest bony ମାଛ",
+    "description": "the heaviest bony fish",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/ocean-sunମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/ocean-sunfish.webp",
     "odiaName": "ଓସେନ୍ ସନଫିସ୍",
-    "profileDetails": "/animals/ocean-sunମାଛ.json",
+    "profileDetails": "/animals/ocean-sunfish.json",
     "descriptionOdia": "ସବୁଠାରୁ ଓଜନିଆ କଣ୍ଟାଯୁକ୍ତ ମାଛ"
   },
   {
@@ -443,7 +443,7 @@
     "name": "Rainbow Trout",
     "scientificName": "oncorhynchus mykiss",
     "category": "ମାଛ",
-    "description": "the colourful fly-ମାଛer's favourite",
+    "description": "the colourful fly-fisher's favourite",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/trout.webp",
     "odiaName": "ରେନ୍‌ବୋ ଟ୍ରାଉଟ୍",
@@ -674,7 +674,7 @@
     "name": "Betta",
     "scientificName": "betta splendens",
     "category": "ମାଛ",
-    "description": "labyrinth ମାଛ famous for vivid fins",
+    "description": "labyrinth fish famous for vivid fins",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/betta.webp",
     "odiaName": "ବେଟା",
@@ -685,7 +685,7 @@
     "name": "Coelacanth",
     "scientificName": "latimeria chalumnae",
     "category": "ମାଛ",
-    "description": "living-fossil lobe-finned ମାଛ",
+    "description": "living-fossil lobe-finned fish",
     "conservationStatus": "ଅତି ସଙ୍କଟାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/coelacanth.webp",
     "odiaName": "ସିଲାକାନ୍ଥ",
@@ -902,21 +902,21 @@
     "descriptionOdia": "ଗୃହପାଳିତ ଘୁଷୁରିର ପୂର୍ବଜ"
   },
   {
-    "name": "Channel Catମାଛ",
+    "name": "Channel Catfish",
     "scientificName": "ictalurus punctatus",
     "category": "ମାଛ",
     "description": "north america's whiskered bottom feeder",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/catମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/catfish.webp",
     "odiaName": "ଚ୍ୟାନେଲ୍ କ୍ୟାଟଫିସ୍",
-    "profileDetails": "/animals/channel-catମାଛ.json",
+    "profileDetails": "/animals/channel-cat.json",
     "descriptionOdia": "ଉତ୍ତର ଆମେରିକାର ନିଶ ଥିବା କ୍ୟାଟଫିସ୍"
   },
   {
     "name": "Osprey",
     "scientificName": "pandion haliaetus",
     "category": "ପକ୍ଷୀ",
-    "description": "the ମାଛ-hunting raptor of coasts and lakes",
+    "description": "the fish-hunting raptor of coasts and lakes",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/osprey.webp",
     "odiaName": "ଅସ୍‌ପ୍ରେ",
@@ -1004,7 +1004,7 @@
     "name": "Basking Shark",
     "scientificName": "cetorhinus maximus",
     "category": "ମାଛ",
-    "description": "second-largest ମାଛ; gentle plankton feeder",
+    "description": "second-largest fish; gentle plankton feeder",
     "conservationStatus": "ବିପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/basking-shark.webp",
     "odiaName": "ବାସ୍କିଂ ସାର୍କ",
@@ -1034,14 +1034,14 @@
     "descriptionOdia": "ପୃଥିବୀର ସବୁଠାରୁ ମନ୍ଥର ସ୍ତନ୍ୟପାୟୀ ପ୍ରାଣୀ"
   },
   {
-    "name": "Clownମାଛ",
+    "name": "ClownFish",
     "scientificName": "amphiprion ocellaris",
     "category": "ମାଛ",
-    "description": "the reef ମାଛ that lives among stinging tentacles",
+    "description": "the reef fish that lives among stinging tentacles",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/clownମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/clownfish.webp",
     "odiaName": "କ୍ଲାଉନ୍‌ଫିସ୍",
-    "profileDetails": "/animals/clownମାଛ.json",
+    "profileDetails": "/animals/clownfish.json",
     "descriptionOdia": "ବିଷାକ୍ତ କର୍ଷିକା ମଧ୍ୟରେ ରହୁଥିବା ପ୍ରବାଳ ମାଛ"
   },
   {
@@ -1169,7 +1169,7 @@
     "name": "Bald Eagle",
     "scientificName": "haliaeetus leucocephalus",
     "category": "ପକ୍ଷୀ",
-    "description": "the ମାଛ-hunting raptor and national ପକ୍ଷୀ of the united states",
+    "description": "the fish-hunting raptor and national ପକ୍ଷୀ of the united states",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/bald-eagle.webp",
     "odiaName": "ବାଲ୍ଡ୍ ଇଗଲ୍",
@@ -1474,14 +1474,14 @@
     "descriptionOdia": "ଆମେରିକାର ସର୍ବବୃହତ୍ ଏବଂ ସବୁଠାରୁ ଶକ୍ତିଶାଳୀ ବାଘ (ବିରାଡ଼ି ପ୍ରଜାତି)"
   },
   {
-    "name": "Jellyମାଛ",
+    "name": "Jellyfish",
     "scientificName": "medusozoa",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "the ancient, brainless drifter of the seas",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/jellyମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/jellyfish.webp",
     "odiaName": "ଜେଲିଫିସ୍",
-    "profileDetails": "/animals/jellyମାଛ.json",
+    "profileDetails": "/animals/jelly.json",
     "descriptionOdia": "ସମୁଦ୍ରର ପ୍ରାଚୀନ ଏବଂ ମସ୍ତିଷ୍କହୀନ ଭାସମାନ ଜୀବ"
   },
   {
@@ -1719,7 +1719,7 @@
     "name": "Largemouth Bass",
     "scientificName": "micropterus salmoides",
     "category": "ମାଛ",
-    "description": "america's favourite freshwater game ମାଛ",
+    "description": "america's favourite freshwater game fish",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/bass.webp",
     "odiaName": "ଲାର୍ଜମାଉଥ୍ ବାସ୍",
@@ -1840,7 +1840,7 @@
     "name": "Brown Pelican",
     "scientificName": "pelecanus occidentalis",
     "category": "ପକ୍ଷୀ",
-    "description": "the plunge-diving ମାଛer",
+    "description": "the plunge-diving fisher",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/pelican.webp",
     "odiaName": "ବ୍ରାଉନ୍ ପେଲିକାନ୍",
@@ -1903,14 +1903,14 @@
     "descriptionOdia": "ମାଡାଗାସ୍କାରର ବିରାଡ଼ି ପରି ଶୀର୍ଷ ଶିକାରୀ"
   },
   {
-    "name": "Largetooth Sawମାଛ",
+    "name": "Largetooth Sawfish",
     "scientificName": "pristis pristis",
     "category": "ମାଛ",
     "description": "giant ray with a toothed rostral saw",
     "conservationStatus": "ଅତି ସଙ୍କଟାପନ୍ନ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/sawମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/sawfish.webp",
     "odiaName": "ଲାର୍ଜଟୁଥ୍ ସ୍ୱଫିସ୍",
-    "profileDetails": "/animals/largetooth-sawମାଛ.json",
+    "profileDetails": "/animals/largetooth-sawfish.json",
     "descriptionOdia": "ଦାନ୍ତଯୁକ୍ତ କରତ ପରି ନାକ ଥିବା ବିଶାଳ ରେ ମାଛ"
   },
   {
@@ -2071,7 +2071,7 @@
     "name": "Atlantic Cod",
     "scientificName": "gadus morhua",
     "category": "ମାଛ",
-    "description": "the ମାଛ that built atlantic nations",
+    "description": "the fish that built atlantic nations",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/cod.webp",
     "odiaName": "ଆଟଲାଣ୍ଟିକ୍ କଡ୍ ମାଛ",
@@ -2266,14 +2266,14 @@
     "descriptionOdia": "ମାଡାଗାସ୍କାରର ପଟାଦାଗ ଲାଞ୍ଜ ଥିବା ଖରା ପୋଉଁଥିବା ପ୍ରାଇମେଟ୍"
   },
   {
-    "name": "Goldମାଛ",
+    "name": "Goldfish",
     "scientificName": "carassius auratus",
     "category": "ମାଛ",
-    "description": "the world's most popular pet ମାଛ",
+    "description": "the world's most popular pet fish",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/goldମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/goldfish.webp",
     "odiaName": "ଗୋଲ୍ଡଫିସ୍",
-    "profileDetails": "/animals/goldମାଛ.json",
+    "profileDetails": "/animals/goldfish.json",
     "descriptionOdia": "ବିଶ୍ୱର ସବୁଠାରୁ ଲୋକପ୍ରିୟ ପୋଷା ମାଛ"
   },
   {
@@ -2398,14 +2398,14 @@
     "descriptionOdia": "ଆରବ ଉପଦ୍ୱୀପର ଉଚ୍ଚା ମୁକୁଟ ଥିବା ଏଣ୍ଡୁଅ"
   },
   {
-    "name": "Oarମାଛ",
+    "name": "Oarfish",
     "scientificName": "regalecus glesne",
     "category": "ମାଛ",
-    "description": "world's longest bony ମାଛ",
+    "description": "world's longest bony fish",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/oarମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/oarfish.webp",
     "odiaName": "ଓର୍‌ଫିସ୍",
-    "profileDetails": "/animals/oarମାଛ.json",
+    "profileDetails": "/animals/oarfish.json",
     "descriptionOdia": "ବିଶ୍ୱର ସବୁଠାରୁ ଲମ୍ବା କଣ୍ଟାଯୁକ୍ତ ମାଛ"
   },
   {
@@ -2621,7 +2621,7 @@
     "name": "Seahorse",
     "scientificName": "hippocampus",
     "category": "ମାଛ",
-    "description": "the tiny ମାଛ where fathers give birth",
+    "description": "the tiny fish where fathers give birth",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/seahorse.webp",
     "odiaName": "ସମୁଦ୍ର ଘୋଡ଼ା",
@@ -2764,7 +2764,7 @@
     "name": "Whale Shark",
     "scientificName": "rhincodon typus",
     "category": "ମାଛ",
-    "description": "the largest ମାଛ in the world",
+    "description": "the largest fish in the world",
     "conservationStatus": "ବିପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/whale-shark.webp",
     "odiaName": "ହ୍ୱେଲ୍ ସାର୍କ",
@@ -2827,14 +2827,14 @@
     "descriptionOdia": "ଉତ୍ତର ଆମେରିକୀୟ ମଇଦାନର ଉଜ୍ଜ୍ୱଳ ହଳଦିଆ ଫିଞ୍ଚ୍"
   },
   {
-    "name": "ମାଛer",
+    "name": "fisher",
     "scientificName": "pekania pennanti",
     "category": "ସ୍ତନ୍ୟପାୟୀ ପ୍ରାଣୀ",
     "description": "arboreal mustelid that can prey on porcupines",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/ମାଛer.webp",
+    "image": "https://imsbg.github.io/animals/images/fisher.webp",
     "odiaName": "ଫିସର୍",
-    "profileDetails": "/animals/ମାଛer.json",
+    "profileDetails": "/animals/fisher.json",
     "descriptionOdia": "ଗଛରେ ରହୁଥିବା ମଷ୍ଟେଲିଡ୍ ଯାହା ଝିଙ୍କ ଶିକାର କରିପାରେ"
   },
   {
@@ -2959,14 +2959,14 @@
     "descriptionOdia": "ପକ୍ଷୀ ଜଗତର ଚିକ୍କଣ କଳା ବୁଦ୍ଧିମାନ ପକ୍ଷୀ (କାଉ)"
   },
   {
-    "name": "Betta ମାଛ",
+    "name": "Betta fish",
     "scientificName": "betta splendens",
     "category": "ମାଛ",
     "description": "the colorful fighter of southeast asian waters",
     "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/betta-ମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/betta-fish.webp",
     "odiaName": "ବେଟା ମାଛ",
-    "profileDetails": "/animals/betta-ମାଛ.json",
+    "profileDetails": "/animals/betta-fish.json",
     "descriptionOdia": "ଦକ୍ଷିଣ-ପୂର୍ବ ଏସିଆ ଜଳର ରଙ୍ଗୀନ ଯୋଦ୍ଧା ମାଛ"
   },
   {
@@ -3182,7 +3182,7 @@
     "name": "Atlantic Salmon",
     "scientificName": "salmo salar",
     "category": "ମାଛ",
-    "description": "the ମାଛ that swims upriver to spawn",
+    "description": "the fish that swims upriver to spawn",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/salmon.webp",
     "odiaName": "ଆଟଲାଣ୍ଟିକ୍ ସାଲମନ୍",
@@ -3325,12 +3325,12 @@
     "name": "Red-bellied Piranha",
     "scientificName": "pygocentrus nattereri",
     "category": "ମାଛ",
-    "description": "the sharp-toothed ମାଛ of the amazon",
+    "description": "the sharp-toothed fish of the amazon",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/piranha.webp",
     "odiaName": "ପିରାନ୍ହା",
     "profileDetails": "/animals/red-bellied-piranha.json",
-    "descriptionOdia": "ଆମାଜନର ତୀକ୍ଷ୍ଣ ଦାନ୍ତ ଥିବା ମାଛ"
+    "descriptionOdia": "ଆମାଜନର ତୀକ୍ଷ୍ଣ ଦାନ୍ତ ଥିବା fish"
   },
   {
     "name": "Orchid Mantis",
@@ -3410,14 +3410,14 @@
     "descriptionOdia": "ଉଷ୍ମ ସମୁଦ୍ରର ବ୍ୟାପକ ଅଞ୍ଚଳରେ ବିଚରଣ କରୁଥିବା ଶବଭକ୍ଷୀ ସାର୍କ"
   },
   {
-    "name": "Blobମାଛ",
+    "name": "Blobfish",
     "scientificName": "psychrolutes marcidus",
     "category": "ମାଛ",
-    "description": "the deep-sea ମାଛ that only looks like a blob out of water",
+    "description": "the deep-sea fish that only looks like a blob out of water",
     "conservationStatus": "Not Evaluated",
-    "image": "https://imsbg.github.io/animals/images/blobମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/blobfish.webp",
     "odiaName": "ବ୍ଲବ୍‌ଫିସ୍",
-    "profileDetails": "/animals/blobମାଛ.json",
+    "profileDetails": "/animals/blobfish.json",
     "descriptionOdia": "ଗଭୀର ସମୁଦ୍ର ମାଛ ଯାହା ପାଣି ବାହାରେ କେବଳ ଏକ ପିଣ୍ଡୁଳା ପରି ଦେଖାଯାଏ"
   },
   {
@@ -3468,7 +3468,7 @@
     "name": "Wood Stork",
     "scientificName": "mycteria americana",
     "category": "ପକ୍ଷୀ",
-    "description": "tactile-ମାଛing stork of southern swamps",
+    "description": "tactile-fishing stork of southern swamps",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/wood-stork.webp",
     "odiaName": "ଉଡ୍ ଷ୍ଟର୍କ",
@@ -3795,14 +3795,14 @@
     "descriptionOdia": "ପଶ୍ଚିମ ଉପକୂଳର ରିବିଟ୍ ଚଳଚ୍ଚିତ୍ର ପଛରେ ଥିବା କୋରସ୍ ବେଙ୍ଗ"
   },
   {
-    "name": "Australian Lungମାଛ",
+    "name": "Australian Lungfish",
     "scientificName": "neoceratodus forsteri",
     "category": "ମାଛ",
     "description": "queensland river survivor from the age of dinosaurs",
     "conservationStatus": "ବିପନ୍ନ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/australian-lungମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/australian-lungfish.webp",
     "odiaName": "ଅଷ୍ଟ୍ରେଲୀୟ ଲଙંગଫିସ୍",
-    "profileDetails": "/animals/australian-lungମାଛ.json",
+    "profileDetails": "/animals/australian-lungfish.json",
     "descriptionOdia": "ଡାଇନୋସର ଯୁଗରୁ ବଞ୍ଚିଥିବା କୁଇନ୍ସଲ୍ୟାଣ୍ଡ ନଦୀର ମାଛ"
   },
   {
@@ -3861,25 +3861,25 @@
     "descriptionOdia": "ଗଭୀର ସମୁଦ୍ରର ଆଲୋକ ବିକିରଣ କରୁଥିବା ଏବଂ ଗୋଲାକାରରେ କାମୁଡ଼ୁଥିବା ସାର୍କ"
   },
   {
-    "name": "Lanternମାଛ",
+    "name": "Lanternfish",
     "scientificName": "myctophum punctatum",
     "category": "ମାଛ",
     "description": "bioluminescent commuter of the twilight zone",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/lanternମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/lanternfish.webp",
     "odiaName": "ଲ୍ୟାଣ୍ଟର୍ଣ୍ଣ ଫିସ୍",
-    "profileDetails": "/animals/lanternମାଛ.json",
+    "profileDetails": "/animals/lanternfish.json",
     "descriptionOdia": "ଗୋଧୂଳି ଅଞ୍ଚଳର ଆଲୋକ ବିକିରଣ କରୁଥିବା ଯାତ୍ରୀ ମାଛ"
   },
   {
-    "name": "Viperମାଛ",
+    "name": "Viperfish",
     "scientificName": "chauliodus sloani",
     "category": "ମାଛ",
     "description": "fang-faced ambusher of the abyss",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/viperମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/viperfish.webp",
     "odiaName": "ଭାଇପରଫିସ୍",
-    "profileDetails": "/animals/viperମାଛ.json",
+    "profileDetails": "/animals/viperfish.json",
     "descriptionOdia": "ଗଭୀର ସମୁଦ୍ରର ବିଷଦାନ୍ତ-ମୁହାଁ ଛପି ରହି ଶିକାର କରୁଥିବା ମାଛ"
   },
   {
@@ -3905,14 +3905,14 @@
     "descriptionOdia": "ଉଷ୍ମ ଅଗଭୀର ଜଳର ସାମୁଦ୍ରିକ ଘାସ ଖାଉଥିବା ହ୍ୟାମର୍‌ହେଡ୍ ସାର୍କ"
   },
   {
-    "name": "Common Guitarମାଛ",
+    "name": "Common Guitarfish",
     "scientificName": "rhinobatos rhinobatos",
     "category": "ମାଛ",
     "description": "ଅତି ସଙ୍କଟାପନ୍ନ ପ୍ରଜାତି shovel ray of sandy coasts",
     "conservationStatus": "ଅତି ସଙ୍କଟାପନ୍ନ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/guitarମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/guitarfish.webp",
     "odiaName": "କମନ୍ ଗିଟାରଫିସ୍",
-    "profileDetails": "/animals/common-guitarମାଛ.json",
+    "profileDetails": "/animals/common-guitarfish.json",
     "descriptionOdia": "ବାଲିଆ ଉପକୂଳର ଅତି ବିପନ୍ନ ସୋଭେଲ୍ ରେ (ମାଛ)"
   },
   {
@@ -3993,25 +3993,25 @@
     "descriptionOdia": "ଆଟଲାଣ୍ଟିକ୍ ଗୋଡ଼ିପଥର ଅଞ୍ଚଳର ହାତ ଖସାଉଥିବା ଫିଲ୍ଟର୍-ଫିଡର୍"
   },
   {
-    "name": "Box Jellyମାଛ",
+    "name": "Box Jellyfish",
     "scientificName": "chironex fleckeri",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "cube-shaped killer of australian shallows",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/box-jellyମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/box-jellyfish.webp",
     "odiaName": "ବକ୍ସ ଜେଲିଫିସ୍",
-    "profileDetails": "/animals/box-jellyମାଛ.json",
+    "profileDetails": "/animals/box-jellyfish.json",
     "descriptionOdia": "ଅଷ୍ଟ୍ରେଲୀୟ ଅଗଭୀର ଜଳର ବାକ୍ସ ଆକାରର ଘାତକ ଜେଲିଫିସ୍"
   },
   {
-    "name": "Moon Jellyମାଛ",
+    "name": "Moon Jellyfish",
     "scientificName": "aurelia aurita",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "glass-disc drifter of harbours worldwide",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/moon-jellyମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/moon-jellyfish.webp",
     "odiaName": "ମୁନ୍ ଜେଲିଫିସ୍",
-    "profileDetails": "/animals/moon-jellyମାଛ.json",
+    "profileDetails": "/animals/moon-jellyfish.json",
     "descriptionOdia": "ବିଶ୍ୱବ୍ୟାପୀ ବନ୍ଦରଗୁଡ଼ିକରେ ଭାସୁଥିବା କାଚ-ଥାଳିଆ ପରି ଜେଲିଫିସ୍"
   },
   {
@@ -4103,14 +4103,14 @@
     "descriptionOdia": "ମେରୁ ସମୁଦ୍ରର ଖୋଳପା-ବିହୀନ ଡେଣାଯୁକ୍ତ ଶିକାରୀ"
   },
   {
-    "name": "Crown-of-thorns Starମାଛ",
+    "name": "Crown-of-thorns Starfish",
     "scientificName": "acanthaster planci",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "spiny coral scourge of indo-pacific reefs",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/crown-of-thorns.webp",
     "odiaName": "କ୍ରାଉନ୍-ଅଫ୍-ଥର୍ନସ୍ ଷ୍ଟାରଫିସ୍",
-    "profileDetails": "/animals/crown-of-thorns-starମାଛ.json",
+    "profileDetails": "/animals/crown-of-thorns-starfish.json",
     "descriptionOdia": "ଭାରତ-ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ପ୍ରବାଳ ଭିତ୍ତିର କଣ୍ଟାଯୁକ୍ତ ଶତ୍ରୁ ତାରାମାଛ"
   },
   {
@@ -4224,14 +4224,14 @@
     "descriptionOdia": "ଆଫ୍ରିକୀୟ ସାଭାନାର ସାମାଜିକ, ଶକ୍ତିଶାଳୀ ଶିକାରୀ (ହେଟାବାଘ)"
   },
   {
-    "name": "Swordମାଛ",
+    "name": "Swordfish",
     "scientificName": "xiphias gladius",
     "category": "ମାଛ",
     "description": "the ocean hunter armed with a sword",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/swordମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/swordfish.webp",
     "odiaName": "ସ୍ୱର୍ଡଫିସ୍",
-    "profileDetails": "/animals/swordମାଛ.json",
+    "profileDetails": "/animals/swordfish.json",
     "descriptionOdia": "ଖଣ୍ଡା ପରି ଥଣ୍ଟ ଥିବା ସମୁଦ୍ରର ଶିକାରୀ ମାଛ"
   },
   {
@@ -4249,7 +4249,7 @@
     "name": "Electric Eel",
     "scientificName": "electrophorus electricus",
     "category": "ମାଛ",
-    "description": "the ମାଛ that generates powerful electric shocks",
+    "description": "the fish that generates powerful electric shocks",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/electric-eel.webp",
     "odiaName": "ଇଲେକ୍ଟ୍ରିକ୍ ଇଲ୍",
@@ -4268,14 +4268,14 @@
     "descriptionOdia": "ଗ୍ରୀଷ୍ମ ଋତୁର ହଳଦିଆ-ଏବଂ-କଳା ଶିକାରୀ ଏବଂ ଶବଭକ୍ଷୀ (ବରୁଡ଼ି)"
   },
   {
-    "name": "Cuttleମାଛ",
+    "name": "Cuttlefish",
     "scientificName": "sepia officinalis",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "the color-changing master of camouflage",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/cuttleମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/cuttlefish.webp",
     "odiaName": "କଟଲଫିସ୍",
-    "profileDetails": "/animals/cuttleମାଛ.json",
+    "profileDetails": "/animals/cuttlefish.json",
     "descriptionOdia": "ଛଦ୍ମବେଶ ପାଇଁ ରଙ୍ଗ ବଦଳାଇବାରେ ପାରଙ୍ଗମ (କଟଲଫିସ୍)"
   },
   {
@@ -4337,7 +4337,7 @@
     "name": "Blue Tang",
     "scientificName": "paracanthurus hepatus",
     "category": "ମାଛ",
-    "description": "the bright blue reef ମାଛ from finding nemo",
+    "description": "the bright blue reef fish from finding nemo",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/blue-tang.webp",
     "odiaName": "ବ୍ଲୁ ଟ୍ୟାଙ୍ଗ",
@@ -4348,7 +4348,7 @@
     "name": "Guppy",
     "scientificName": "poecilia reticulata",
     "category": "ମାଛ",
-    "description": "the colorful beginner's aquarium ମାଛ",
+    "description": "the colorful beginner's aquarium fish",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/guppy.webp",
     "odiaName": "ଗୁପ୍ପୀ",
@@ -4389,14 +4389,14 @@
     "descriptionOdia": "ବିଶ୍ୱର ସର୍ବବୃହତ୍ ହର୍ନେଟ୍ (ପୋକ)"
   },
   {
-    "name": "Starମାଛ",
+    "name": "Starfish",
     "scientificName": "asteroidea",
     "category": "ଅମେରୁଦଣ୍ଡୀ ପ୍ରାଣୀ",
     "description": "the five-armed drifter that regrows its limbs",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/starମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/starfish.webp",
     "odiaName": "ତାରାମାଛ",
-    "profileDetails": "/animals/starମାଛ.json",
+    "profileDetails": "/animals/starfish.json",
     "descriptionOdia": "ନିଜର ଅଙ୍ଗ ପୁନଃବିକଶିତ କରିପାରୁଥିବା ପାଞ୍ଚ-ବାହୁ ବିଶିଷ୍ଟ ଜଳଚର (ତାରାମାଛ)"
   },
   {
@@ -4598,14 +4598,14 @@
     "descriptionOdia": "ପୃଥିବୀର ସବୁଠାରୁ ଦ୍ରୁତଗାମୀ ପ୍ରାଣୀ"
   },
   {
-    "name": "Pufferମାଛ",
+    "name": "Pufferfish",
     "scientificName": "tetraodontidae",
     "category": "ମାଛ",
-    "description": "the ମାଛ that inflates into a spiky ball",
+    "description": "the fish that inflates into a spiky ball",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/pufferମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/pufferfish.webp",
     "odiaName": "ପଫର୍ ଫିସ୍",
-    "profileDetails": "/animals/pufferମାଛ.json",
+    "profileDetails": "/animals/pufferfish.json",
     "descriptionOdia": "କଣ୍ଟାଯୁକ୍ତ ବଲ୍ ପରି ଫୁଲିଯାଉଥିବା ମାଛ"
   },
   {
@@ -4799,7 +4799,7 @@
     "name": "Gharial",
     "scientificName": "gavialis gangeticus",
     "category": "ସରୀସୃପ",
-    "description": "the ମାଛ-eating crocodilian with a long, narrow snout",
+    "description": "the fish-eating crocodilian with a long, narrow snout",
     "conservationStatus": "ଅତି ସଙ୍କଟାପନ୍ନ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/gharial.webp",
     "odiaName": "ଘଣ୍ଟିଆଳ କୁମ୍ଭୀର",
@@ -4851,14 +4851,14 @@
     "descriptionOdia": "ପୂର୍ବାଞ୍ଚଳ ଜଙ୍ଗଲର ରଙ୍ଗ ବଦଳାଉଥିବା ଟ୍ରି ଫ୍ରଗ୍ (ଗଛ ବେଙ୍ଗ)"
   },
   {
-    "name": "Common Kingମାଛer",
+    "name": "Common Kingfisher",
     "scientificName": "alcedo atthis",
     "category": "ପକ୍ଷୀ",
     "description": "a jewel-colored diver of rivers and streams",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/kingମାଛer.webp",
+    "image": "https://imsbg.github.io/animals/images/kingfisher.webp",
     "odiaName": "ମାଛରଙ୍କା",
-    "profileDetails": "/animals/common-kingମାଛer.json",
+    "profileDetails": "/animals/common-kingfisher.json",
     "descriptionOdia": "ନଦୀ ଏବଂ ଝରଣାର ରତ୍ନ ପରି ରଙ୍ଗୀନ ବୁଡ଼ାଳି ପକ୍ଷୀ (ମାଛରଙ୍କା)"
   },
   {
@@ -4961,14 +4961,14 @@
     "descriptionOdia": "ବିଶ୍ୱର ସବୁଠାରୁ ବୁଦ୍ଧିମାନ ପକ୍ଷୀମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ"
   },
   {
-    "name": "Anglerମାଛ",
+    "name": "Anglerfish",
     "scientificName": "lophiiformes",
     "category": "ମାଛ",
     "description": "the deep-sea hunter with a glowing lure",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
-    "image": "https://imsbg.github.io/animals/images/anglerମାଛ.webp",
+    "image": "https://imsbg.github.io/animals/images/anglerfish.webp",
     "odiaName": "ଆଙ୍ଗ୍ଲର୍ ଫିସ୍",
-    "profileDetails": "/animals/anglerମାଛ.json",
+    "profileDetails": "/animals/anglerfish.json",
     "descriptionOdia": "ଆଲୋକିତ ଟୋପ ବ୍ୟବହାର କରୁଥିବା ଗଭୀର ସମୁଦ୍ରର ଶିକାରୀ"
   },
   {
@@ -5404,7 +5404,7 @@
     "name": "X-ray Tetra",
     "scientificName": "pristella maxillaris",
     "category": "ମାଛ",
-    "description": "the see-through ମାଛ of the amazon",
+    "description": "the see-through fish of the amazon",
     "conservationStatus": "ସର୍ବନିମ୍ନ ଚିନ୍ତାଜନକ ପ୍ରଜାତି",
     "image": "https://imsbg.github.io/animals/images/x-ray-tetra.webp",
     "odiaName": "ଏକ୍ସ-ରେ ଟେଟ୍ରା",
