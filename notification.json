@@ -1,1 +1,11 @@
 
+{
+  "maintenanceMode": false,
+  "maintenanceMessage": "ଆପ୍ ବର୍ତ୍ତମାନ ରକ୍ଷଣାବେକ୍ଷଣରେ ଅଛି । ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ ।",
+  "hiddenTabs": ["animals"], 
+  "notification": {
+    "hasNew": true,
+    "title": "ନୂଆ ଅପଡେଟ୍! 🎉",
+    "message": "ଆମେ କିଛି ନୂଆ ଫଳ ଯୋଡିଛୁ । ଆସନ୍ତୁ ଏକ୍ସପ୍ଲୋର୍ କରିବା!"
+  }
+}
